@@ -1,0 +1,6 @@
+venv
+.pytest_cach/
+.idea
+scratch.py
+__pycache__
+*.csv
